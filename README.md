@@ -73,7 +73,6 @@ cover.html
 </html>
 
 style.css
-
 body{
     display: flex;
     justify-content:center;
@@ -82,7 +81,7 @@ body{
 }
 .page{
     width: 500px;
-    height: 700px;
+    height: 600px;
     background-image: url(background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -138,13 +137,13 @@ body{
 .bottom{
     color: #2f96f6;
     position: absolute;
-    bottom: 40px;
+    bottom: 10px;
     right: 60px;
     font-weight: bold;
 }
 .pic{
     position: absolute;
-    bottom:90px;
+    bottom:50px;
     left: 75%;
     width: 100px;
     height:100px;
@@ -152,7 +151,6 @@ body{
     background-size: 80px;
 
 }
-
 ```
 
 ## OUTPUT:
